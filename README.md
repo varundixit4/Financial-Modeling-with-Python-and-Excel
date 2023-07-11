@@ -4,5 +4,5 @@
 <h3>1. Getting Started with Python and Excel</h3>
 <p>In this module, a simple retirement model was made using python and excel. First the inputs were defined such as the salary, the interest rate, the percent of salary that is to be invested, etc. Then the goal was set to find out the number of years to invest so that a person can retire with x amount of money.</p>
 <p>In the lab session, the instructions were to use the same model of various parameters, that is multiple interest and savings rates.</p>
-<h4>View the <a href='./Basic Retirement Model.xlsx'>Excel Model</a></h4>
+<h4>View the <a href='./Basic Retirement Models.pdf'>Excel Model</a> or <a href='./Basic Retirement Models.xlsx'>Download</a></h4>
 <h4>View the <a href='./Basic Retirement Model.ipynb'>Python Model</a></h4>
